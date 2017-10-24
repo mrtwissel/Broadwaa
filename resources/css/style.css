@@ -3,14 +3,14 @@ body {
   font-family: Helvetica, sans-serif;
 }
 
-.header {
+.hero {
   color: White;
   background-image: url("../images/the-flatiron-building.png");
   background-color: white;
-  background-repeat: no-repeat;
 }
 
-.header a {
+.nav {
+  font-size: 18px;
   color: white;
 }
 
@@ -21,15 +21,20 @@ body {
   color: white;
 }
 
-.footer a {
-  color: white;
-}
-
 h1 {
   font-size: 70px;
   font-weight: bold;
 }
 
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
 
 p {
   font-size: 14px;
